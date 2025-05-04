@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "questions": [
+    {
+      "question": "What is RAM?",
+      "answers": ["Memory", "CPU", "Cache"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is HTTP?",
+      "answers": ["Protocol", "Server", "Router"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is CSS?",
+      "answers": ["Styles", "Script", "Markup"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "CPU stands for?",
+      "answers": ["Unit", "Core", "Logic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a bug?",
+      "answers": ["Error", "Fix", "Hack"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is SQL?",
+      "answers": ["Query", "Script", "Object"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "HTML is a?",
+      "answers": ["Markup", "Script", "Binary"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Main OS by Apple?",
+      "answers": ["macOS", "iOS", "Linux"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a loop?",
+      "answers": ["for", "int", "char"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is binary?",
+      "answers": ["1010", "1234", "9999"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Python is a?",
+      "answers": ["Script", "Markup", "Query"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Git is for?",
+      "answers": ["Version", "Build", "Deploy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "JS is short for?",
+      "answers": ["JavaScr", "JustSay", "JumpSys"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is API?",
+      "answers": ["Access", "Packet", "Image"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "IDE is used for?",
+      "answers": ["Coding", "Gaming", "Hacking"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a type?",
+      "answers": ["int", "var", "sum"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Linux is a?",
+      "answers": ["Kernel", "App", "Patch"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a DB?",
+      "answers": ["MySQL", "Python", "Bash"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "URL means?",
+      "answers": ["Locator", "Server", "Path"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "A bit is?",
+      "answers": ["Binary", "Logic", "Code"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
